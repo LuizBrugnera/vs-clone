@@ -30,7 +30,9 @@ export default function VsClonePage() {
           <span className="text-sm font-semibold">TERMINAL</span>
         </div>
         <pre className="font-mono text-xs text-green-400">
-          $ npm start Starting the development server...
+          $ Os terminais não estão disponíveis no editor da Web. Continue em um
+          ambiente que possa executar código, como um codespace ou VS Code
+          Desktop.
         </pre>
       </div>
     </div>
